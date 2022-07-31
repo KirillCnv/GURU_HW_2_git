@@ -9,8 +9,8 @@ public class HomeworkGit {
 
     void test() {
 
-        Assertions.assertTrue(2==2);
-        Assertions.assertTrue(2!=22);
+        Assertions.assertTrue(2+2==4);
+        Assertions.assertTrue(4!=22);
     }
 }
 
